@@ -1,0 +1,7 @@
+README for : search_ebay_script.py
+
+An interview project
+project which uses Selenium to open chrome browser,
+and then load the eBay website and search for : Fujifilm X-T2 (mirrorless camera)
+
+USAGE : search_ebay_script.py <chromedriver_path>
