@@ -21,7 +21,7 @@ def ebay_search(chromedriver_path, product_to_search):
     """
     try:
 
-        driver = webdriver.Chrome(chromedriver_path)  # open chromedriver
+        driver = webdriver.Chrome(chromedriver_path)  # open browser
 
     except WebDriverException:
 
